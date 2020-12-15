@@ -1,0 +1,18 @@
+1) what is yum ?
+2)diff yum and curl and wget ?
+3) benefits of yum ?
+4)how to do rpm based installation  in linux machine ?
+5)what is rpm machine in linux ?
+
+1) what is yum ?
+yum is the primary tool for getting, installing, deleting, querying, and managing Red Hat Enterprise Linux RPM software packages from official Red Hat software repositories, as well as other third-party repositories.
+
+2)diff yum and curl and wget ?
+The curl command transfers data from any server over to your computer. Whereas the wget command downloads the data as a file. This is the major difference between the two commands.
+
+3) benefits of yum ?
+ Install New Package From Repository -- yum install httpd
+ Check For Available Updates --yum check-update
+ Update New Package From Repository --yum update bash -y
+ Uninstall Package --yum remove httpd
+ Reinstall Package -- yum reinstall httpd -y
