@@ -1,0 +1,10 @@
+what is linux service ?
+
+what is use of systemctl ?
+
+how to start /stop / enable/disable a service ?
+
+
+
+
+
