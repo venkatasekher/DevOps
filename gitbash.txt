@@ -1,0 +1,22 @@
+git --version :- this command use to check the git latest version
+git config --global user.email "gitemailid"
+git config --global user.name "gitusername"
+git init :- to create one empty .git directory which contains git details
+git clone [giturl] :- to get the git repository details like a directories , files
+git add [filename] :- to check added or modified the specific file
+git add . :- for multiple files
+git status :- to see the modified files 
+git commit -m "message" :-
+git remote add origin giturl
+git checkout -b 'master'
+git push -u origin master 
+
+
+
+
+
+
+
+
+
+

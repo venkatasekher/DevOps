@@ -1,0 +1,14 @@
+ec2-18-191-173-123.us-east-2.compute.amazonaws.com
+
+knife bootstrap ec2-18-191-173-123.us-east-2.compute.amazonaws.com --ssh-user ec2-user --sudo -i /root/chandu_key_pair.pem -N chandu
+
+
+knife bootstrap ec2-18-191-173-123.us-east-2.compute.amazonaws.com --ssh-user ec2-user --sudo -i chandu_key_pair.pem -N chandu
+
+
+PrJ6uDM9yLaYIXCoJYXmLH/7IdiKCY4PrXgAUXyAhAI
+
+
+
+
+

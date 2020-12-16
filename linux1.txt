@@ -3,6 +3,7 @@
 3) benefits of yum ?
 4)how to do rpm based installation  in linux machine ?
 5)what is rpm machine in linux ?
+6)
 
 1) what is yum ?
 yum is the primary tool for getting, installing, deleting, querying, and managing Red Hat Enterprise Linux RPM software packages from official Red Hat software repositories, as well as other third-party repositories.
